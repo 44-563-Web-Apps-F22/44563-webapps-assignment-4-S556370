@@ -13,14 +13,20 @@
    color: red;   font-family: Arial, Helvetica, sans-serif;   font-size: x-large;
 }
 
+.DR_D_TITLE {
+   color: brown;   font-family: Arial, Helvetica, sans-serif;   font-size: xx-large;
+}
+
 P.CHORUS {   
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   font-size: 14px;   color: black;
 }
-
 P.CONST {   
    font-family: Georgia, 'Times New Roman', Times, serif;   font-size: 18px;   color: black;
 }
 P.MRS_P {   
+   font-family: Verdana, Geneva, Tahoma, sans-serif;   font-size: 22px;   color: black;
+}
+P.DR_D {   
    font-family: Verdana, Geneva, Tahoma, sans-serif;   font-size: 22px;   color: black;
 }
 .direction{
