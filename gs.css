@@ -52,3 +52,11 @@ table.artists {
  tr:nth-child(even) {
    background-color: #dddddd;
  }
+
+ .DR_D_TITLE:hover{
+   color: coral;
+   text-shadow: 2px 2px 5px red;
+   background-color: black;
+   cursor: pointer;
+
+ }
