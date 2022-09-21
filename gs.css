@@ -1,0 +1,33 @@
+
+
+.CONST_TITLE  {
+   color: blue;   font-family: 'Times New Roman', Times, serif;   font-size: x-large
+}
+
+.MRS_P_TITLE {
+   color: green;   font-family: Arial, Helvetica, sans-serif;   font-size: x-large;
+
+}
+
+.CHORUS_TITLE  {
+   color: red;   font-family: Arial, Helvetica, sans-serif;   font-size: x-large;
+}
+
+P.CHORUS {   
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   font-size: 14px;   color: black;
+}
+
+P.CONST {   
+   font-family: Georgia, 'Times New Roman', Times, serif;   font-size: 18px;   color: black;
+}
+P.MRS_P {   
+   font-family: Verdana, Geneva, Tahoma, sans-serif;   font-size: 22px;   color: black;
+}
+.direction{
+   background-color: antiquewhite; cursor: pointer;
+}
+
+.direction:hover{
+   background-color: black;
+   color: white;
+}
