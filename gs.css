@@ -60,14 +60,7 @@ table.artists {
    cursor: pointer;
 
  }
- link{
-   display:none;
- }
 
- .topnav {
-   overflow: hidden;
-   background-color: #333;
- }
  
  .bottom-nav a {
    float: left;
